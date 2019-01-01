@@ -15,6 +15,7 @@ class ComandiCommand extends commando.Command {
         message.reply(`
 **!overwatch**: Tutto quello che devi sapere sulla sezione di Overwatch
 **!ps**: Tutto quello che devi sapere sulla sezione di Post Scriptum
+**!pubg**: Tutto quello che devi sapere sulla sezione di PlayerUnknown's Battlegrounds
         `);
     }
 }
